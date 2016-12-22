@@ -6,4 +6,6 @@ A palette for the [base16](https://github.com/chriskempson/base16) color scheme,
   <img src="./palette.png">
 </p>
 
+Here is a [preview](https://imgur.com/a/UPBm6) of the scheme in several applications.
+
 To install, please use the [base16 builders](https://github.com/chriskempson/base16).
